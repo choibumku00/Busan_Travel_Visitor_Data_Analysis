@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4c4b08de-3fcc-4637-b120-4cdec3ae4355)# Busan_Travel_Visitor_Data_Analysis
 데이터 출처: 국내 여행로그 데이터(동부권) (2023) (AIHub)  
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71778
 
