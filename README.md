@@ -1,4 +1,5 @@
-데이터 출처: 국내 여행로그 데이터(동부권) (2023) (AIHub)  
+## 데이터 출처
+국내 여행로그 데이터(동부권) (2023) (AIHub)  
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71778
 
 
@@ -51,16 +52,22 @@ GPS의 원본 데이터(TL_gps_data)는 왼쪽 사진과 같이 모든 이동 �
 -	동부/서부 나누어 시각화(시청/부산항)
 -	Poi 벡터 기준으로 유사도 top k개 출력
 
+
+
 ![image](https://github.com/user-attachments/assets/02f5396d-ddc2-4115-a12f-021a3e7adef8)  
-[tourists_by_age_group.png]
+[tourists_by_age_group.png]  
+방문자의 연령별 명수  
 
+### 시각화 비교 사진
 ![image](https://github.com/user-attachments/assets/e67cf72b-d055-45e2-862d-dc441a54c921)  
-
 [age_group_travel_routes.html]  
+전체 사용자의 경로를 표시하는 것은 시각화 했을때 보기 힘듬
 오른쪽 상단 레이어를 클릭하여, 연령별로 경로를 필터링 가능  
 
 ![image](https://github.com/user-attachments/assets/4cb09d41-a125-47f6-ba59-4acc93763fcf)  
 age_group_travel_locations.html  
+
+---
 
 ![image](https://github.com/user-attachments/assets/1a5121cf-2efe-423e-b3b3-642f2d447d3d)
 
