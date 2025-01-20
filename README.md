@@ -1,4 +1,4 @@
-# Busan_Travel_Visitor_Data_Analysis
+![image](https://github.com/user-attachments/assets/4c4b08de-3fcc-4637-b120-4cdec3ae4355)# Busan_Travel_Visitor_Data_Analysis
 데이터 출처: 국내 여행로그 데이터(동부권) (2023) (AIHub)  
 https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71778
 
@@ -26,7 +26,7 @@ GPS의 원본 데이터(TL_gps_data)는 왼쪽 사진과 같이 모든 이동 �
 
 ## 데이터 분석
 부산_방문지_정보_필터링_작업.ipynb 파일에 데이터 전처리와 분석 내용이 담겨 있음  
-아래 과정은 부산_방문지_정보_필터링_작업.ipynb 내용과 동일  
+아래 과정은 **부산_여행_방문자_데이터분석.ipynb** 내용과 동일  
 
 ### 데이터 전처리
 -	/TL_csv/tn_travel_여행_F.csv를 통해 부산을 여행가는 사람만 필터링
